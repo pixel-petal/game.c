@@ -1,7 +1,6 @@
 # Lane Dodging Game - Analysis & Enhancements
 
 ## Project Information
-- **Repository**: https://github.com/shoonyank/game
 - **Language**: C (Windows)
 - **Game Type**: Console lane dodging game
 
